@@ -28,5 +28,5 @@ Below is an example of a website scraped using the application.
 | Google | div | header | Google |
 | GitHub | h1 | lh-condensed | Where the world builds software |
 
-###Contributing
+### Contributing
 To contribute to this project, please submit a pull request.
